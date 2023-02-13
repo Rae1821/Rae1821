@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Rachel
-- 🎓 I recently completed the Front End Development Certification from Skillcrush! 
-- 👀 I’m interested in using my coding skills to work on a team of awesome front-end developers for an awesome company. I am open to freelancing as well!
-- 🌱 I’m currently learning taking the React.js class at Scrimba and loving it! I am excited to learn as much as I can about front end web development.
-- 📫 You can reach me at hello@rachelandersondooley.com
+- 👋 Hi, I’m Rachel & I am a freelance web developer
+- 🎓 I completed the Skillcrush Frontend Developer Bootcamp last year and I am currently enrolled in the Frontend developer career path at Scrimba.com
+- 🌱 I have over 10 years of experience in delivering world class customer service, managing high performing teams, and building rapport in a remote team environment. 
+- 📫 You can reach me at rachelandersondooley@gmail.com
 - ✨ Check out my portfolio to see what I'm working on at **RachelAndersonDooley.com**
 
 <!---
