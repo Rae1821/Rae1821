@@ -9,4 +9,3 @@
 Rae1821/Rae1821 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[Rachel-Dooley-certificate-color.pdf](https://github.com/Rae1821/Rae1821/files/8872853/Rachel-Dooley-certificate-color.pdf)
